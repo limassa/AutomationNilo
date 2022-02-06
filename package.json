@@ -1,0 +1,14 @@
+{
+  "name": "testenilo",
+  "version": "1.0.0",
+  "description": "Processo Seletivo Nilo Saude",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "João Neto",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  }
+}
