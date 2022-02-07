@@ -1,4 +1,4 @@
-# AutomationNilo
+# Modo de Utilização
 Automação Web utilizando o Cypress
 ##Modo de Utilizar
 Clonar em uma pasta;
